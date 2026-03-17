@@ -7,7 +7,7 @@ This app is the "pipeline 3" project in the workshop. It turns pipeline 2's ASCI
 - Lets users choose one render mode at a time: `figlet` or `cowsay`.
 - Shows a full cowsay character list.
 - Lets users change text color, background color, and text size.
-- Updates preview live as controls change.
+- Updates preview live as controls change
 
 ### Run locally
 ```bash
